@@ -1,7 +1,6 @@
 ![Message](https://img.shields.io/static/v1?label=Android&message=Library&color=green)
 ![License](https://img.shields.io/badge/License-Apache-blue.svg)
 
-
 **Starter Android Library**  is an Android Project with Modular Architecture.
 - Codebase to start your library clean and testable.
 - it contain 3 layers for common components (core - data - presentation) and library module
@@ -55,6 +54,7 @@
 
 ## Check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
 
+
 ## License
 
 **Apache License**, Version 2.0
@@ -79,4 +79,5 @@ limitations under the License.
 ```
 
 </details>
+
 
